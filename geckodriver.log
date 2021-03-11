@@ -1,0 +1,331 @@
+1607981373963	geckodriver	INFO	Listening on 127.0.0.1:57874
+1607981377006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileUUclKJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607981379033	Marionette	INFO	Listening on port 57882
+1607981379062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZOOUHDPX1u0ZW55Jp-kBBpW_cJsl90Acx-LpAg2fTop8MSuA1oQ7ML8rWufgzzh83A2&t=637103454297649313, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvqujXQbXatiugbSaBNt7OZ7FwUlga89AR-RZxeRtuIrED0A9dClHd_Ks7pxdzfv-PcYf3VnIEGGk7qkahbL_1kBzZOIUqYcXyLilmmjTAqyQCRwSbErPfzhohgDtIBQVDXA9CQE-PtWgA3ZdPnAdZp41&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OKW10-nwCysPxZfWtXsAbfrBTAy-IGRVAFF1gBxzRUxW9rCcmr2PsTb1x05Y97X8Q4QUiN0YC519jSqXaej_LKf4L7CerdrlfWFzrcLDPP4GpHcuqqL0AjupKdNDZD6AgwEqPIZWIJ4hTLfL1eu9MRw1&t=ffffffffecf19baa, line 5: ReferenceError: Type is not defined
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607981390448	Marionette	INFO	Stopped listening on port 57882
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607981427567	geckodriver	INFO	Listening on 127.0.0.1:57927
+1607981430613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofiledDGPRq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607981432359	Marionette	INFO	Listening on port 57935
+1607981432664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZHidMYdFhUgqec4Hh-ZmZPLG8OTWIEp_VDmuFVHU5-aI_qmnCSW8VXUC94buqsqw8g2&t=637103454297649313, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OCjYe5-bv5vfQhu5ymyrEDEcOxRDu8buPb4po_CtghN7Y68_1WQVZDrUbrAFrxrrVaS3tM4mS_RYc9IR6r8geUWtaoMTPG-KVCZDsLpF6mWKtFjcY5-cdu8qDrosEvLTiKUn06zM6uP8Rg-fI5sUINs1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: TypeError: Sys.WebForms is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607981451462	Marionette	INFO	Stopped listening on port 57935
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607982543784	geckodriver	INFO	Listening on 127.0.0.1:58029
+1607982546835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile4znWpm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607982548624	Marionette	INFO	Listening on port 58037
+1607982548886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvt69ZJ2PAO28LxB5LwvP6TFeXzK7L-9qM7mZ6VLBdyMmcnM9p5x3zmQKx0muAO2c_YwC84M7BnFbRx5NdwPHmanbO56_KY-19GHqDYgNYXACLoFDLCRY1tldvmmHzYzlX3xcTnwGwNe_sXZuLCt2eVA1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OCjYe5-bv5vfQhu5ymyrEDEcOxRDu8buPb4po_CtghN7Y68_1WQVZDrUbrAFrxrrVaS3tM4mS_RYc9IR6r8geUWtaoMTPG-KVCZDsLpF6mWKtFjcY5-cdu8qDrosEvLTiKUn06zM6uP8Rg-fI5sUINs1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607982685666	Marionette	INFO	Stopped listening on port 58037
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607982698256	geckodriver	INFO	Listening on 127.0.0.1:58093
+1607982701294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilepsiOOv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607982703223	Marionette	INFO	Listening on port 58101
+1607982703346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvrv49pO9kLHZSk3S26sHvvFViE4dPN1CEGXw90gI3NtfJzv7QjqgSWGIO4wfvCIW8Jh77gOE5JmDvgedW75PRs9VkYcG7qMSbzI0bS48Q5o6BEnCG2fPrTxyk4xv2MY8MOa0RCTDBU4MaWAsVr3IZQA1&t=ffffffffad4b7194, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OGi6raSce5eKC3bybAR1hBjHGniGjt2qD9uXpiDAlcY40X-q9E-nYT04cs5P9EL_HStfc4ZUpyRCbS6TvZ7R4qvu3pdy5bbW86ambRXWg0tjGs8qLnw1evWiCvjia1-QIl_tnazasraoxyHsrdfFPf01&t=ffffffffad4b7194, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607983704320	Marionette	INFO	Stopped listening on port 58101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileeXeLbd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607982739838	Marionette	INFO	Listening on port 58159
+1607982739889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvkuI2yKtPyyRsA8PBdAYx0hxoAgryNFo1u2n80alagpnyaitosnZEBsAzAV1awzv-dn3YvpP5e45dVbrtYTXYXYkceJtsROqNafnJsnn6jJ2T7rJM4w4TfohTsvGTIoYmMG5ppgANx84Pzh5HQqdi8s1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8ODvJ6vNKhFyuUBJ1ToZVViwi3Wew49lZTUftmh65zNoplse6EITsPPorVQPJ5B1sleffK_1qRq7AdnhwgHZKnAmJ2sGo_9lVZQVTH9xzL-A4SYlxiBcQe9kKK78Xfk4gDuc5Chf9cPKVaCfstK-p4X81&t=ffffffffecf19baa, line 5: ReferenceError: Type is not defined
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607982934440	geckodriver	INFO	Listening on 127.0.0.1:58211
+1607982937501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilew8tT8H"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607982939518	Marionette	INFO	Listening on port 58220
+1607982939567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvhNdrrZjTIR-K2L_XB8U2cGu9JEZU2Mt8oyeRD8FrS-FHJgoWYuT5_dMp4qjm6Vu3nMfIDuudeOtvckXVOcYBWFk9Prr3NH4nJS00NPrIPMH1QZNH3_9sljaIicSz6O451kAooxjauniNJ-PvgeigFA1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OAXJwDjallCcO4bP3zv0bkTy2jqEn9fH4icUX7UQm3_WccmPqBi8zRQrRXcmoHvYmEGm3gJB5g7FuIv4jYZDa2J831fEgzxbYKcqDC3vigk0AkLAYixbuVqJ3RGR5x_iCGf7ifC31JRvUlt72iBd4Iw1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607983521322	geckodriver	INFO	Listening on 127.0.0.1:58329
+1607983524350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile4ad2K2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607983526185	Marionette	INFO	Listening on port 58340
+1607983526391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OCfAdrh9PL4GYgwGThmwSnUQxedXbGbXXy1Yh-CwZZOoYTctz9omHjZfprum7Ra9fyy2K5G_KmwPn1IWm8vy3n9XvhTfD56bZqfxl1E1hU4_AE26XRhvJH3ozbNlMwSgy6QxHiG-mZjmVfEIgM40W0Y1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: TypeError: Sys.WebForms is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607983652963	geckodriver	INFO	Listening on 127.0.0.1:58390
+1607983656002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilermjThV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607983657789	Marionette	INFO	Listening on port 58398
+1607983658051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvkuI2yKtPyyRsA8PBdAYx0hxoAgryNFo1u2n80alagpnyaitosnZEBsAzAV1awzv-dn3YvpP5e45dVbrtYTXYXYkceJtsROqNafnJsnn6jJ2T7rJM4w4TfohTsvGTIoYmMG5ppgANx84Pzh5HQqdi8s1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8ODvJ6vNKhFyuUBJ1ToZVViwi3Wew49lZTUftmh65zNoplse6EITsPPorVQPJ5B1sleffK_1qRq7AdnhwgHZKnAmJ2sGo_9lVZQVTH9xzL-A4SYlxiBcQe9kKK78Xfk4gDuc5Chf9cPKVaCfstK-p4X81&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607983705281	Marionette	INFO	Stopped listening on port 58398
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilel5R6VW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607983700344	Marionette	INFO	Listening on port 58461
+1607983700544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmnXj9wKvsd4CqRWIWUZ2cyU27vaC8UlC0BOT_ogvAuowjfhhixqSrgrJwBzKK06vhVmyEt8Qc033ItLWho2L36TVJH7M2jYShh_UH2hN7elrtYPtzKb_suC1-jHs6LqgCESaRWAcanDjX7GZX5nJw41&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OOeAaLVRBWet4vJgwl1oJl8-44Vy05ZRqU0INYZXR_e9Q0UD-5cFFO5ROrXZktOWTTtImO0fY0eXZBzwacbjUV4lARW94emLpOKLMV2s8Xf5020zZepEgzIhUAropKInjcUeDcWnwXM7sjQiK-hH-xw1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607983850853	geckodriver	INFO	Listening on 127.0.0.1:58509
+1607983853895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile44mifE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607983855735	Marionette	INFO	Listening on port 58518
+1607983855942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZGNlekqHNumQUWf4idsr3RZcF2qUNyM_r4XHYiQ_VFR88h9XbwezU-wFqBzxVr0jtw2&t=636511556826842555, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvshDqPZUJS_GeFfhf71QQf1J4wK44TQZdnl-4zwf8lwuqGAIe3m5p7-xZEFElAG6SlSZ4SAb3xtKi1aNw9eXMvJijXh8jWtbA5r6Fmd8U9EEtpQQzblRcZlkbA71nEORMFLfPeV7W3_esQdoggz5RX01&t=ffffffffad4b7194, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OD85y7APSONF0aXS2dnrp-nvAasI1mSAwilLTTbTcpfCCUVSArncCkH9IJk2U_ANxgRpxrKV1SDjfY66AR_qSh3m93lD5n99K9f0S0ywLz5vX9ne59ibpLBv0bqS2U8qZnbw70H6p7lksoBw0usI1Qg1&t=ffffffffad4b7194, line 5: ReferenceError: Type is not defined
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607984281686	Marionette	INFO	Stopped listening on port 58518
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile8vrQl8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607983973814	Marionette	INFO	Listening on port 58614
+1607983974080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvksBo_8aNWLFfbMuptPt2WI_qiPdJp1ldDfYfW_94WnLS3OxWKkIwuDXisdYZui4Usc3Uzs-WzENUrUayL9lDTEofVWLjIoBAoJqIiWwVlxPQNTAxyslGMpY-kY18GIsboGcP8QuEuPLGI-Vnz9e1w41&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OBi7t_54rLKmL4kiamecJH2-30_lr2rGd1ydhHoG-d9VVdnzs69_Fod0GAeEUQQdXZ3MBFBUsZi05WIuU72h7nL19j_zBt_K1GCqd2XGENJDLx5p8A6DWvlxInAhYkQHgJTbeiCfdIT-7HY94tOOCxs1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607984048123	geckodriver	INFO	Listening on 127.0.0.1:58668
+1607984051182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileIH37US"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607984053034	Marionette	INFO	Listening on port 58676
+1607984053224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OGi6raSce5eKC3bybAR1hBjHGniGjt2qD9uXpiDAlcY40X-q9E-nYT04cs5P9EL_HStfc4ZUpyRCbS6TvZ7R4qvu3pdy5bbW86ambRXWg0tjGs8qLnw1evWiCvjia1-QIl_tnazasraoxyHsrdfFPf01&t=ffffffffad4b7194, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: TypeError: Sys.WebForms is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607984156520	geckodriver	INFO	Listening on 127.0.0.1:58733
+1607984159569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile2Y6d6s"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607984161308	Marionette	INFO	Listening on port 58741
+1607984161599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvksBo_8aNWLFfbMuptPt2WI_qiPdJp1ldDfYfW_94WnLS3OxWKkIwuDXisdYZui4Usc3Uzs-WzENUrUayL9lDTEofVWLjIoBAoJqIiWwVlxPQNTAxyslGMpY-kY18GIsboGcP8QuEuPLGI-Vnz9e1w41&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OBi7t_54rLKmL4kiamecJH2-30_lr2rGd1ydhHoG-d9VVdnzs69_Fod0GAeEUQQdXZ3MBFBUsZi05WIuU72h7nL19j_zBt_K1GCqd2XGENJDLx5p8A6DWvlxInAhYkQHgJTbeiCfdIT-7HY94tOOCxs1&t=ffffffffecf19baa, line 5: ReferenceError: Type is not defined
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607984243136	geckodriver	INFO	Listening on 127.0.0.1:58788
+1607984246188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile3LAdyb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607984248023	Marionette	INFO	Listening on port 58796
+1607984248231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvqujXQbXatiugbSaBNt7OZ7FwUlga89AR-RZxeRtuIrED0A9dClHd_Ks7pxdzfv-PcYf3VnIEGGk7qkahbL_1kBzZOIUqYcXyLilmmjTAqyQCRwSbErPfzhohgDtIBQVDXA9CQE-PtWgA3ZdPnAdZp41&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OKW10-nwCysPxZfWtXsAbfrBTAy-IGRVAFF1gBxzRUxW9rCcmr2PsTb1x05Y97X8Q4QUiN0YC519jSqXaej_LKf4L7CerdrlfWFzrcLDPP4GpHcuqqL0AjupKdNDZD6AgwEqPIZWIJ4hTLfL1eu9MRw1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607984266555	Marionette	INFO	Stopped listening on port 58796
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607985612391	geckodriver	INFO	Listening on 127.0.0.1:58939
+1607985615413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileS7bVJo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607985617249	Marionette	INFO	Listening on port 58947
+1607985617464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvhNdrrZjTIR-K2L_XB8U2cGu9JEZU2Mt8oyeRD8FrS-FHJgoWYuT5_dMp4qjm6Vu3nMfIDuudeOtvckXVOcYBWFk9Prr3NH4nJS00NPrIPMH1QZNH3_9sljaIicSz6O451kAooxjauniNJ-PvgeigFA1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OAXJwDjallCcO4bP3zv0bkTy2jqEn9fH4icUX7UQm3_WccmPqBi8zRQrRXcmoHvYmEGm3gJB5g7FuIv4jYZDa2J831fEgzxbYKcqDC3vigk0AkLAYixbuVqJ3RGR5x_iCGf7ifC31JRvUlt72iBd4Iw1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607985635557	Marionette	INFO	Stopped listening on port 58947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607986681141	geckodriver	INFO	Listening on 127.0.0.1:59146
+1607986684235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile7jkaro"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607986685957	Marionette	INFO	Listening on port 59154
+1607986686294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvqujXQbXatiugbSaBNt7OZ7FwUlga89AR-RZxeRtuIrED0A9dClHd_Ks7pxdzfv-PcYf3VnIEGGk7qkahbL_1kBzZOIUqYcXyLilmmjTAqyQCRwSbErPfzhohgDtIBQVDXA9CQE-PtWgA3ZdPnAdZp41&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OKW10-nwCysPxZfWtXsAbfrBTAy-IGRVAFF1gBxzRUxW9rCcmr2PsTb1x05Y97X8Q4QUiN0YC519jSqXaej_LKf4L7CerdrlfWFzrcLDPP4GpHcuqqL0AjupKdNDZD6AgwEqPIZWIJ4hTLfL1eu9MRw1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1607986700612	Marionette	INFO	Stopped listening on port 59154
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607986774101	geckodriver	INFO	Listening on 127.0.0.1:59202
+1607986777157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile2689n4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607986778898	Marionette	INFO	Listening on port 59210
+1607986779197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZEgO-HlaUvKYg7JgpHZzkqbstAXlyE4TDTPo74N-CZIxbIBdNpYFkQJTw06QTkdsGg2&t=637103454297649313, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvgV0UDBKchqNLMRK-XHeEwfbao2loizm7uwFvaq2pkNgNws5kCtXGJieKozW9lefvkx3iyfDgUmz3NMBS3O2zB50641yIKpdP8xqvhzDfvwudLje8ArDTBV9aNBeA_tFdqIzIsEzQIIkHoDHGLp1E4k1&t=ffffffffecf19baa, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://covid19.saglik.gov.tr/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OMS-3UllYvhTP3cskk4X7YHe4q7rSvmMQIlKYwLp5hhcg0j81jR9EmZniL74Elek_tc-c4QVeo9toZXeY8h7aeBydESLwhW79WtcgPmxVvy5eYXSvcEU5200ltli9ZGiw1Yyfj7cNTXWJipkYpBqn-U1&t=ffffffffecf19baa, line 5: ReferenceError: Type is not defined
+JavaScript error: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html, line 92: ReferenceError: Sys is not defined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607986796588	Marionette	INFO	Stopped listening on port 59210
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1608539696578	geckodriver	INFO	Listening on 127.0.0.1:62386
+1608539699693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileGLOK06"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608539703233	Marionette	INFO	Listening on port 62395
+1608539703390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1608539709495	Marionette	INFO	Stopped listening on port 62395
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609762496598	geckodriver	INFO	Listening on 127.0.0.1:60294
+1609762499701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile1ycccF"
+1609762515832	geckodriver	INFO	Listening on 127.0.0.1:60344
+1609762518902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilewOZacC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609762520562	Marionette	INFO	Listening on port 60354
+1609762520977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 333: TypeError: span is undefined
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/carosel.js, line 62: TypeError: sliders.slick is not a function
+1609762523465	Marionette	INFO	Stopped listening on port 60354
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615459698173	geckodriver	INFO	Listening on 127.0.0.1:50907
+1615459701237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofiletpid7b"
+1615459723192	geckodriver	INFO	Listening on 127.0.0.1:50961
+1615459726251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileBuvtmP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615459727905	Marionette	INFO	Listening on port 50969
+1615459728296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid19.saglik.gov.tr/assets/js/default.js, line 29: ReferenceError: sondurumjson is not defined
+1615459731097	Marionette	INFO	Stopped listening on port 50969
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
